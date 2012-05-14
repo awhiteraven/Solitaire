@@ -13,7 +13,7 @@
 // HelloWorldLayer
 @interface HelloWorldLayer : CCLayer
 {
-  
+    // Changing this file.
 }
 
 // returns a CCScene that contains the HelloWorldLayer as the only child
