@@ -13,6 +13,7 @@
 // HelloWorldLayer
 @interface HelloWorldLayer : CCLayer
 {
+  // Thanks.
     // Changing this file.
 }
 
