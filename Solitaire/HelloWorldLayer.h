@@ -13,7 +13,7 @@
 // HelloWorldLayer
 @interface HelloWorldLayer : CCLayer
 {
-  
+  // Can I see this?
 }
 
 // returns a CCScene that contains the HelloWorldLayer as the only child
