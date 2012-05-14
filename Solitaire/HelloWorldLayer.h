@@ -14,7 +14,7 @@
 @interface HelloWorldLayer : CCLayer
 {
     // Fixed a typo.
-    CCSprite* cards;
+    CCSprite* cards2;
 }
 
 // returns a CCScene that contains the HelloWorldLayer as the only child
