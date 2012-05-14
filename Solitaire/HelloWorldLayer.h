@@ -14,6 +14,7 @@
 @interface HelloWorldLayer : CCLayer
 {
     // Fixed a typo.
+    /////
     CCSprite* cards2;
 }
 
